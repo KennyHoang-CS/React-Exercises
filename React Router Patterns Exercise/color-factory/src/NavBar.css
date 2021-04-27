@@ -1,0 +1,5 @@
+.Nav-Bar{
+    display: grid;
+    row-gap: 8px;
+    justify-content: center;
+}

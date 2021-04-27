@@ -8,6 +8,9 @@ exports[`Carousel matches snapshot 1`] = `
     <h1>
       Shells from far away beaches.
     </h1>
+    <h2>
+      Snapshot Update?
+    </h2>
     <div
       class="Carousel-main"
     >

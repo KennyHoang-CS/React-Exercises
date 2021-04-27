@@ -18,6 +18,7 @@ function Carousel(props) {
   return (
     <div className="Carousel">
       <h1>{props.title}</h1>
+      <h2>Snapsadsashot Update?</h2>
       <div className="Carousel-main">
         <i
           className={`fas fa-chevron-circle-left fa-2x ${beginningOfImages}`}
